@@ -2,9 +2,6 @@
  * Representa uma recepcionista da unidade de saúde.
  * Estende Funcionario. Responsável por cadastrar pacientes
  * e encaminhá-los para a fila de atendimento.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class Recepcionista extends Funcionario {
 
