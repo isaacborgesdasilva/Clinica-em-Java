@@ -2,9 +2,6 @@
  * Classe abstrata que representa uma pessoa no sistema de saúde.
  * Serve como base para Paciente e Funcionario, centralizando
  * os atributos comuns e obrigando subclasses a definir getTipo().
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public abstract class Pessoa {
 
