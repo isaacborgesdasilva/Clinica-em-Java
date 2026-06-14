@@ -2,9 +2,6 @@
  * Representa uma consulta médica no sistema de saúde.
  * Implementa Registravel. Usa atributo estático para numerar
  * automaticamente as consultas.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class Consulta implements Registravel {
 
