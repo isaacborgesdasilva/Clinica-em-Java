@@ -2,9 +2,6 @@
  * Representa uma triagem de risco realizada por um enfermeiro.
  * Implementa Registravel e aplica a Escala de Manchester simplificada
  * para classificar a urgência do paciente.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class Triagem implements Registravel {
 
