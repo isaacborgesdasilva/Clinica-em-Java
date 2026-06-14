@@ -4,9 +4,6 @@ import java.util.ArrayList;
  * Classe central que gerencia pacientes, funcionários,
  * consultas e triagens da unidade de saúde.
  * Atua como repositório e ponto de controle do sistema.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class SistemaAtendimento {
 
