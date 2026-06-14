@@ -2,9 +2,6 @@
  * Representa um médico da unidade de saúde.
  * Estende Funcionario e implementa Atendivel, demonstrando
  * herança múltipla de interface e polimorfismo.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class Medico extends Funcionario implements Atendivel {
 
