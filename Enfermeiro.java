@@ -2,9 +2,6 @@
  * Representa um enfermeiro da unidade de saúde.
  * Estende Funcionario e implementa Atendivel.
  * Além de atendimentos, o enfermeiro realiza triagens de risco.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class Enfermeiro extends Funcionario implements Atendivel {
 
