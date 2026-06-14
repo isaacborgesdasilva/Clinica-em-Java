@@ -3,9 +3,6 @@ import java.util.ArrayList;
 /**
  * Representa um paciente atendido pela unidade de saúde.
  * Herda de Pessoa e armazena histórico de consultas e triagens.
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public class Paciente extends Pessoa {
 
