@@ -2,9 +2,6 @@
  * Classe abstrata que representa um funcionário da unidade de saúde.
  * Estende Pessoa e adiciona atributos funcionais (matrícula, salário, setor).
  * Obriga subclasses a definir getCargo() e getTipo().
- *
- * Disciplina: Programação de Computadores - UFERSA 2026.1
- * Prof.ª Welliana Benevides Ramalho
  */
 public abstract class Funcionario extends Pessoa {
 
